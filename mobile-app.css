@@ -1,0 +1,17 @@
+#mobile-app {
+  min-height: 30vh;
+}
+
+.mobile-app__wrapper {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobile-app__item--left img {
+  width: 70rem;
+  
+}
+

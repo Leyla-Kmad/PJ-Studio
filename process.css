@@ -10,7 +10,7 @@
 }
 
 .process__item {
-  padding: 
+  padding: 2.5rem;
 }
 
 .process__item h2{
@@ -28,7 +28,7 @@
 }
 
 .process__item--box {
-  padding: 2.5rem;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;

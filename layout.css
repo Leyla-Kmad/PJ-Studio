@@ -43,11 +43,10 @@ a {
 
 .container {
     width: 100%;
-    margin-right: auto;
-    margin-left: 1rem;
-    padding-right: 1rem;
-}
-
+    /* margin-right: auto;
+    /* margin-left: 1rem; */
+    /* padding-right: 1rem; */
+} 
 .btn {
     font-family: inherit;
     padding: 1rem 1.5rem;
